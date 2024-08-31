@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "pgm vlab backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KushalHarsora/pgm_vlab.git"
+  },
+  "author": "Kushal Harsora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KushalHarsora/pgm_vlab/issues"
+  },
+  "homepage": "https://github.com/KushalHarsora/pgm_vlab#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
