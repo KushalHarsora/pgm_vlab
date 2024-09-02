@@ -11,7 +11,21 @@ This is a virtual lab designed to ease the learning curve of Probablistic Graphi
 
 **Database:** MongoDb
 
+## Commiting Code of Conduct
+
+> [!NOTE]
+> #### Make sure you pull the code first before commiting to the repo
+
+If you already have the code on your system and you want to commit your changes
+```bash
+git pull origin main
+git push -u origin main
+```
+
 ## Installation
+
+> [!Note]
+> #### make sure you have Node installed in your system with the latest version
 
 Clone the project
 
